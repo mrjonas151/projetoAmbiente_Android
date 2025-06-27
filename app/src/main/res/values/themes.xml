@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Projeto4Mobile" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="Theme.Projeto4Mobile" parent="Base.Theme.Projeto4Mobile" />
+</resources>
