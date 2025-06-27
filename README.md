@@ -40,7 +40,7 @@
 ### 🤖 **Relatórios Inteligentes**
 - **IA Personalizada**: Relatórios gerados automaticamente por inteligência artificial
 - **Análise Completa**: Período de análise e total de atividades
-- **Envio por Email**: Compartilhe relatórios diretamente para `testeser259@gmail.com`
+- **Envio por Email**: Compartilhe relatórios diretamente para seu email
 - **Interface Amigável**: Loading e feedback visual durante geração
 
 ## 🏗️ Arquitetura do Projeto
@@ -113,7 +113,7 @@ app/src/main/java/com/example/projeto4_mobile/
 
 1. **Clone o repositório**:
    ```bash
-   git clone [seu-repositorio]
+   git clone github.com/mrjonas151/projetoAmbiente_Android
    cd projetoAmbiente_Android
    ```
 
@@ -204,7 +204,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Desenvolvido por
 
-**Seu Nome** - [Seu Email] - [Seu LinkedIn]
+**Jonas Tomaz**
 
 ---
 
